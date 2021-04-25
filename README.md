@@ -5,6 +5,8 @@
   <br><br>
   <samp>
     I'm Rutik Bhoyar currently a Third Year CSE student at <a href="http://www.rcert.ac.in/">@RCERT :school: </a> and aspiring software developer:computer:. Interested in working on frontend, Machine Learning and Deep Learning, Databases and currently learning about Machine Learning. Occasionaly I do participate in opensource programs :bulb: and I have a love relationship with Programming :neutral_face:
+    <br><br>
+    I'm currently hacking on Natural Language Processing....
   </samp>
 </p>
 
