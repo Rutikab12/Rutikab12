@@ -12,15 +12,15 @@
 |<img src="https://img.icons8.com/dusk/48/000000/html-5.png" width=60> | <img 
 src="https://img.icons8.com/color/64/000000/javascript.png" width=60> | <img 
 src="https://img.icons8.com/color/48/000000/python.png" width=60> | <img 
-src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width=60>
+src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width=60> | <img
+src="https://img.icons8.com/color/48/000000/php.png" width=60>
 
 
 ### Tools :fire:
 | <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width=60> | <img 
 src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png" width=60> |<img 
 src="https://img.icons8.com/color/48/000000/pycharm.png" width=60> | <img 
-src="https://img.icons8.com/dusk/64/000000/anaconda.png" width=60> | <img 
-src="https://www.php.net/images/logos/new-php-logo.svg" width=60>
+src="https://img.icons8.com/dusk/64/000000/anaconda.png" width=60> 
 
 
 ### Connect with me :smiley:
