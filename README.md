@@ -46,7 +46,7 @@ src="https://img.icons8.com/dusk/64/000000/anaconda.png" width=60>
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rutikab12&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rutikab12&theme=tokyonight" />
-  <img width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutikab12&layout=compact&text_color=daf7dc&bg_color=151515" />
+  <!--<img width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutikab12&layout=compact&text_color=daf7dc&bg_color=151515" />-->
   
 
 </p>
