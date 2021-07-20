@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/emoji/48/000000/boy-light-skin-tone.png" width=100>
   <br><br>
   <samp>
-    I'm Rutik Bhoyar currently a Third Year CSE student at <a href="http://www.rcert.ac.in/">@RCERT :school: </a> and aspiring software developer:computer:. Interested in working on frontend & backend, Machine Learning and NLP, Databases and currently training about NLP. Working as a Web Developer for a private firm. Occasionaly I do participate in opensource programs :bulb: and I have a love relationship with Programming :neutral_face: 
+    I'm Rutik Bhoyar currently a Third Year CSE student at <a href="http://www.rcert.ac.in/">@RCERT :school: </a> and aspiring software developer:computer:. Interested in working on frontend & backend, Machine Learning and NLP, Databases and currently training about NLP. Working as a Web Developer. Occasionaly I do participate in opensource programs :bulb: and I have a love relationship with Programming :neutral_face: 
   </samp>
 </p>
 
