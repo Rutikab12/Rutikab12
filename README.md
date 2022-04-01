@@ -12,8 +12,7 @@
 |<img src="https://img.icons8.com/dusk/48/000000/html-5.png" width=60> | <img 
 src="https://img.icons8.com/color/64/000000/javascript.png" width=60> | <img 
 src="https://img.icons8.com/color/48/000000/python.png" width=60> | <img 
-src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width=60> | <img
-src="https://img.icons8.com/color/48/000000/php.png" width=60>
+src="https://img.icons8.com/color/48/000000/c-plus-plus.png" width=60> |
 
 
 ### Tools :fire:
