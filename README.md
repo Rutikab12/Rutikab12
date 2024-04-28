@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/emoji/48/000000/boy-light-skin-tone.png" width=100>
   <br><br>
   <samp>
-	  I'm Rutik Bhoyar currently a Final Year CSE student at <a href="http://www.rcert.ac.in/">@RCERT :school: </a> and an aspiring software developer:computer:. Interested in working on frontend , Machine Learning and NLP, Databases. Occasionaly I do participate in opensource programs :bulb: and I have a love relationship with Programming :neutral_face: 
+	  I'm Rutik Bhoyar dedicated and results-driven GCP Data Engineer. Proven expertise in designing and implementing data solutions on Google Cloud Platform (GCP) and proficiency in various tools and technologies.
   </samp>
 </p>
 
